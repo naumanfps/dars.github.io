@@ -2306,5 +2306,6 @@
 {"book_id" : "18c8e8b89158ac9de26c1a8528e76331d4e9aae5","book_title":"سالانہ 2020.pdf","server_id":"3","path":"\/تنظیم المدارس\/حل شدہ پرچہ جات\/0متوسطہ\/سالانہ 2020.pdf"},
 {"book_id" : "fa019a843680c6a8665115de4603a48d81706c68","book_title":"سالانہ 2018.pdf","server_id":"3","path":"\/تنظیم المدارس\/حل شدہ پرچہ جات\/1عامہ\/سالانہ 2018.pdf"},
 {"book_id" : "2560ee6763ea05d3fe003d2601638ef01517a70a","book_title":"سالانہ 2019.pdf","server_id":"3","path":"\/تنظیم المدارس\/حل شدہ پرچہ جات\/1عامہ\/سالانہ 2019.pdf"},
-{"book_id" : "4c8f2a88c97e45cff871296489706c4d1ccce22e","book_title":"سالانہ 2020.pdf","server_id":"3","path":"\/تنظیم المدارس\/حل شدہ پرچہ جات\/1عامہ\/سالانہ 2020.pdf"}
+{"book_id" : "4c8f2a88c97e45cff871296489706c4d1ccce22e","book_title":"سالانہ 2020.pdf","server_id":"3","path":"\/تنظیم المدارس\/حل شدہ پرچہ جات\/1عامہ\/سالانہ 2020.pdf"},
+{"book_id" : "bee9d4ff51f2cff38f60b4ce4720fee15dcc18d6","book_title":"nooS gnimmoC.pdf","server_id":"3","path":"\/کنز المدارس\/nooS gnimmoC.pdf"}
 ]}
