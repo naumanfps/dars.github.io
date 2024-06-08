@@ -1,9 +1,9 @@
 {
 	"version": "0.13",
 	"androidurl": "com.FunPlusStudios.DarseNizamiMultan",
-	"appleurl": "https://funplusstudios.com",
-	"winurl": "https://funplusstudios.com",
-	"osxurl": "https://funplusstudios.com",
+	"appleurl": "https://dummy.com",
+	"winurl": "https://dummy.com",
+	"osxurl": "https://dummy.com",
 	"servers": [
 		"https://raw.githubusercontent.com/naumanfps/Server0/main",
 		"https://raw.githubusercontent.com/naa000003/Server1/main",
